@@ -1,6 +1,4 @@
-/* Copyright 2016 - 2017 Marc Volker Dickmann
- * Project: LibBMP
- */
+
 #include <fstream>
 #include <cmath>
 #include "libbmp.h"
