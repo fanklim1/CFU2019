@@ -117,7 +117,7 @@ function print_result($test_all_data_result){
 	  $correct_answer_count=$all_count - $incorrect_answer_count;
 	  $percent= round(($correct_answer_count / $all_count * 100), 2);	
 	  	  global $conection;
-		$query ="INSERT INTO result VALUES (null,'{$_SESSION['username_log']}','$_REQUEST['?test=<?=$test["id"]?']','$percent')";
+		$query ="INSERT INTO result VALUES (null,'{$_SESSION['username_log']}','$_SESSION['test___id']','$percent')";
 		$res_test  = mysqli_query($conection, $query);
 		
 	  
