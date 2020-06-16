@@ -36,13 +36,13 @@
 
 **Скриншот проведенного тестирования(консоль):**
 
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab9/img/1.png?raw=true" alt=""></p>
-<p align="center"><i>Рис. 1. - Скриншот консоли</i></p>
+
+Рис. 1. - Скриншот консоли
 
 **Скриншот проведенного тестирования(Qt):**
 
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab9/img/2.png?raw=true" alt=""></p>
-<p align="center"><i>Рис. 2. - Скриншот Qt</i></p>
+
+*Рис. 2. - Скриншот Qt*
 
 **Код тестирования(tst_ файл)**
 
@@ -320,7 +320,7 @@ DoorStatus LockController::lockDoor()
 
 Результат теста после исправления:
 
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab9/img/3.png?raw=true" alt=""></p>
-<p align="center"><i>Рис. 3. - Тест после исправления</i></p>
 
-** Вывод**: в ходе выполнения лабораторной работы познакомился с Google Test и Google Mock Framework, изучил тестирование классов в среде разработки Qt Creator.
+*Рис. 3. - Тест после исправления*
+
+**Вывод**: в ходе выполнения лабораторной работы познакомился с Google Test и Google Mock Framework, изучил тестирование классов в среде разработки Qt Creator.
