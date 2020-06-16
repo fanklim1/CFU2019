@@ -39,19 +39,19 @@
 
 1. Скриншот окна настроек Qt Creator после настройки для сборки android приложений:
 
-   
-
-   
+![](https://raw.githubusercontent.com/fanklim1/CFU2019/master/Lab.8/img/0.png) 
 
    *Рис. 1. - Окно настроек Qt Creator после настройки для сборки android приложений*
 
 2. Проект - **mousearea**
 
+![](https://raw.githubusercontent.com/fanklim1/CFU2019/master/Lab.8/img/1.PNG)
+
 *Рис. 2. - mousearea код*
 
 3. Скриншот экрана с запущенным приложением на устройстве:
 
-
+![](https://raw.githubusercontent.com/fanklim1/CFU2019/master/Lab.8/img/2.jpg)
 
 *Рис. 3. - Скриншот с мобильного телефона*
 
