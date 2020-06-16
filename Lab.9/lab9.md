@@ -37,10 +37,13 @@
 **Скриншот проведенного тестирования(консоль):**
 
 ![](https://raw.githubusercontent.com/fanklim1/CFU2019/master/Lab.9/img/1.png)
-Рис. 1. - Скриншот консоли
+
+*Рис. 1. - Скриншот консоли*
 
 **Скриншот проведенного тестирования(Qt):**
+
 ![](https://raw.githubusercontent.com/fanklim1/CFU2019/master/Lab.9/img/2.png)
+
 *Рис. 2. - Скриншот Qt*
 
 **Код тестирования(tst_ файл)**
@@ -318,7 +321,9 @@ DoorStatus LockController::lockDoor()
 Данная ошибка могла возникнуть из-за опечаток, невнимательности
 
 Результат теста после исправления:
+
 ![](https://raw.githubusercontent.com/fanklim1/CFU2019/master/Lab.9/img/3.png)
+
 *Рис. 3. - Тест после исправления*
 
 **Вывод**: в ходе выполнения лабораторной работы познакомился с Google Test и Google Mock Framework, изучил тестирование классов в среде разработки Qt Creator.
