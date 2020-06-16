@@ -29,10 +29,11 @@
 - Изучить базовые понятия относящийся к тестированию кода;
 - Научиться тестировать классы в среде разработки Qt Creator.
 
-<a  href="https://github.com/lab9/test">  </a>
-</br>
-<a  href="https://github.com/> </a>
-</br>
+**Проекты**: 
+- https://github.com/fanklim1/CFU2019/tree/master/Lab.9/test
+
+- https://github.com/fanklim1/CFU2019/tree/master/Lab.9/proj
+
 
 **Скриншот проведенного тестирования(консоль):**
 
